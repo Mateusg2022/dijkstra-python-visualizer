@@ -1,4 +1,4 @@
-<h2>Dijkstra Visualizer</h2>
+<h2>Dijkstra Visualizer using python's networkx library</h2>
 
 <p>O Dijkstra é um algoritmo de grafos usado para encontrar o menor caminho entre dois nós. Com a implementação usando fila de prioridade mínima, sua complexidade de tempo é O(E * log V), e a espacial é de O(V) (para manter a priority queue)</p>
 <p>Este projeto tem como intuito apresentar uma implementação mínima do Dijkstra e mostrar o grafo resultante usando a biblioteca Networkx, ideal para trabalhar com grafos.</p>
